@@ -1,4 +1,4 @@
-# dotnet-data-querying-scenarios
+# Dotnet-data-querying-scenarios
 Real-world data querying scenarios in C# using LINQ across multi-entity domain models
 
 This repository demonstrates advanced data querying scenarios using C# and LINQ,
