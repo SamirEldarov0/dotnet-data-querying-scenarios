@@ -476,7 +476,6 @@ var p133 = orders.Where(x => x.OrderItems.Any(y => y.Product.Price < 100) && x.O
 //7) Most frequent buyer
 
 //Return the person who placed the most completed orders.
-
 //(Person Person, int OrderCount)
 
 var p135 = people.Select(x =>
